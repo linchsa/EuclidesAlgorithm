@@ -13,7 +13,7 @@ public class EuclidesAlgorithm {
         } 
     }
     public static void main(String[] args) {
-    int prueba2=EuclidesAlgorithmfunction(194, 70);
-    System.out.println(prueba2);
+    int proof1=EuclidesAlgorithmfunction(194, 70);
+    System.out.println(proof1);
     }
 }
